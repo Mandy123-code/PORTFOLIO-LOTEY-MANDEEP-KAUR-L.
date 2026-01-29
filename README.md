@@ -16,7 +16,11 @@ Computer Science student focused on building responsive front-end applications, 
   
 
 - 🔗 [DeviantArt Redesign App – Interactive Prototype] - https://www.figma.com/design/vbaTMYxtIrbjS6E5QUiufB/DEVIANTART-APP-REDESIGN?t=vNuS4yHDqdklkpSD-1
-- 🔗 [ArtStation App – Workflow] - https://www.figma.com/proto/vbaTMYxtIrbjS6E5QUiufB/DEVIANTART-APP-REDESIGN?t=vNuS4yHDqdklkpSD-1
+- 🔗 [DeviantArt Redesign App – Workflow] - https://www.figma.com/proto/vbaTMYxtIrbjS6E5QUiufB/DEVIANTART-APP-REDESIGN?t=vNuS4yHDqdklkpSD-1
+- 🔗 [DeviantArt Redesign App – Presentation] - https://www.canva.com/design/DAG28ASURaI/hnS7Zj2Z_sFh43czaKvlqg/edit?utm_content=DAG28ASURaI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+  
+- 🔗 [Classica Website] - https://github.com/Mandy123-code/Classica-Website
+- 
 
 ## 🛠 Skills
 - Frontend: React, React Native, HTML, CSS, JavaScript, Typescript
