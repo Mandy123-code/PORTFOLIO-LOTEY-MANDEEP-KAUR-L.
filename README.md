@@ -20,12 +20,13 @@ Computer Science student focused on building responsive front-end applications, 
 - 🔗 [DeviantArt Redesign App – Presentation] - https://www.canva.com/design/DAG28ASURaI/hnS7Zj2Z_sFh43czaKvlqg/edit?utm_content=DAG28ASURaI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
   
 - 🔗 [Classica Website] - https://github.com/Mandy123-code/Classica-Website
-- 
+- 🔗 [Auto meal Plan/ Platemate] - https://github.com/AutoMealPlan/Platemate
 
 ## 🛠 Skills
 - Frontend: React, React Native, HTML, CSS, JavaScript, Typescript
 - Backend: Express.js, Node.js, MySQL, Java, Python
 - UI/UX: Figma, Wireframing, Prototyping, Adobe Photoshop, Adobe Indesign, Adobe Illustrator
+- AI: Data cleaning
 - Tools: Git, GitHub, Microsoft Excel, Word, Canva
 
 ---
